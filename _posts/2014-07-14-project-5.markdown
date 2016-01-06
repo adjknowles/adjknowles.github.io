@@ -1,6 +1,6 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: What's Next?
+subtitle: Contact me to find out!
 layout: default
 modal-id: 5
 date: 2014-07-14

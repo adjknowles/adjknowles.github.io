@@ -1,6 +1,6 @@
 ---
 title: Unicorn
-subtitle: Website Design
+subtitle: Find a shelter for your Unicorn
 layout: default
 modal-id: 3
 date: 2014-07-16

@@ -1,6 +1,6 @@
 ---
 title: Findr Musician
-subtitle: Website Design
+subtitle: Ruby on Rails App 
 layout: default
 modal-id: 2
 date: 2014-07-17

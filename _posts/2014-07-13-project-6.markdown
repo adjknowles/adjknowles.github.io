@@ -1,5 +1,5 @@
 ---
-title: Round Icons
+title: Advent Calendar
 subtitle: Graphic Design
 layout: default
 modal-id: 6
