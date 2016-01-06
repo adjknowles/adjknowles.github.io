@@ -7,9 +7,11 @@ date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: October 2015
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: This app is a web-based game designed for one player. The aim of the game is for the player to answer as many random mathematical equations as possible within 30 seconds. I initially created the gameplay using JavaScript, but later changed much of it to jQuery. I then built a simple grid design in the HTML, to which I added custom CSS styling. To create the pulsing buttons and title slide-in affect, I used Animate.css.
+technology: HTML5, CSS3, JavaScript and jQuery.
+
 
 ---
