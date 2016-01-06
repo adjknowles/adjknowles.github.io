@@ -1,11 +1,11 @@
 ---
 title: Hometown
-subtitle: Website Design
+subtitle: Share your local knowledge with others
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: hometownMain.png
+thumbnail: hometownThumb.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

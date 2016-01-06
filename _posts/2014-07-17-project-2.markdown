@@ -4,8 +4,8 @@ subtitle: Ruby on Rails App
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: findrMain.png
+thumbnail: findrThumb.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

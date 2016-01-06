@@ -4,8 +4,8 @@ subtitle: Find a shelter for your Unicorn
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: unicornMain.png
+thumbnail: unicornThumb.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
