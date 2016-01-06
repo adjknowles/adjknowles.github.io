@@ -1,6 +1,6 @@
 ---
 title: Advent Calendar
-subtitle: Graphic Design
+subtitle: 24 Hour Hackathon
 layout: default
 modal-id: 6
 date: 2014-07-15
