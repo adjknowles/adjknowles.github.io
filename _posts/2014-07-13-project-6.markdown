@@ -1,11 +1,11 @@
 ---
-title: Home
-subtitle: 24 Hour Hackathon
+title: Hometown
+subtitle: Share your local knowledge with others
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: adventMain.png
-thumbnail: adventThumb.png
+img: hometownMain.png
+thumbnail: hometownThumb.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

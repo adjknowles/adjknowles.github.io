@@ -1,11 +1,11 @@
 ---
-title: Advent
-subtitle: Share your local knowledge with others
+title: Advent Calendar
+subtitle: 24 Hour Hackathon
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: hometownMain.png
-thumbnail: hometownThumb.png
+img: adventMain.png
+thumbnail: adventThumb.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
