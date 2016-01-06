@@ -9,6 +9,8 @@ thumbnail: adventThumb.png
 alt: image-alt
 project-date: December 2015
 client: Start Bootstrap
+code: https://github.com/adjknowles/wdi-funathon-project
+website: 
 category: Web Development
 description: A 24 hour hackathon project that takes the traditional advent calendar and puts a modern online twist to it.
 technology: HTML5, CSS3, Node JS, Angular JS, MongoDB and Pure CSS.

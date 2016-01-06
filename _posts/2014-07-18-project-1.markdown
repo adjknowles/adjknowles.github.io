@@ -9,6 +9,8 @@ thumbnail: gridlockedThumb.png
 alt: image-alt
 project-date: October 2015
 client: Start Bootstrap
+code: https://github.com/adjknowles/WDI-Project-1
+website: https://playgridlocked.herokuapp.com/
 category: Web Development
 description: This app is a web-based game designed for one player. The aim of the game is for the player to answer as many random mathematical equations as possible within 30 seconds. I initially created the gameplay using JavaScript, but later changed much of it to jQuery. I then built a simple grid design in the HTML, to which I added custom CSS styling. To create the pulsing buttons and title slide-in affect, I used Animate.css.
 technology: HTML5, CSS3, JavaScript and jQuery.
