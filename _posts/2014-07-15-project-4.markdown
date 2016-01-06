@@ -7,9 +7,10 @@ date: 2014-07-15
 img: adventMain.png
 thumbnail: adventThumb.png
 alt: image-alt
-project-date: April 2014
+project-date: December 2015
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: A 24 hour hackathon project that takes the traditional advent calendar and puts a modern online twist to it.
+technology: HTML5, CSS3, Node JS, Angular JS, MongoDB and Pure CSS.
 
 ---

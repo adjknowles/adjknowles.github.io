@@ -7,9 +7,10 @@ date: 2014-07-17
 img: findrMain.png
 thumbnail: findrThumb.png
 alt: image-alt
-project-date: April 2014
+project-date: November 2015
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: A web-based app allowing students and teachers to register to initiate and organise music lessons. The student can search by city and instrument to find their perfect music teacher. I created the Ruby on Rails application using the Ruby gem Devise, after which I implemented some basic styling for the users to register, login and logout. Once this was done I was able to install further Ruby gems such as Ransack, which created the search features. I then styled the app using Foundation and custom CSS.
+technology: HTML5, CSS3, Ruby, Ruby on Rails, JavaScript, jQuery and Foundation.
 
 ---

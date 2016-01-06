@@ -7,9 +7,10 @@ date: 2014-07-15
 img: hometownMain.png
 thumbnail: hometownThumb.png
 alt: image-alt
-project-date: April 2014
+project-date: December 2015
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: This was my final project and is a web-based app that allows users to share their local knowledge about their hometown. Initially I created the back-end API and ran tests in the mongo database and Insomnia. I then focused on the front-end, implementing the Google APIs and creating the partial view pages. After this I concentrated on the styling, using Bootstrap as the front-end CSS framework as well as custom CSS.
+technology: HTML5, CSS3, Node JS, Express, Angular JS, MongoDB and Bootstrap.
 
 ---
