@@ -10,7 +10,7 @@ alt: image-alt
 project-date: November 2015
 client: Start Bootstrap
 code: https://github.com/adjknowles/Unicorn
-website: 
+website: https://wherearetheunicorns.herokuapp.com/
 category: Web Development
 description: This was our group project and is a web-based app that allows users to find unique startups and workspaces in and around London. Using Google APIs, the user can search for places with the help of autocomplete and the results are then displayed on the map. By clicking on one of these, more information, such as website and contact details will be shown. It has a RESTful API in Node and Express.
 technology: HTML5, CSS3, Node JS, Express, JavaScript, jQuery and Materialize.
