@@ -10,6 +10,11 @@ body {
     color: #{{ site.color.secondary-dark }};
 }
 
+.profile-photo {
+    vertical-align: middle;
+    margin: 0 auto;
+}
+
 .text-muted {
     color: #777;
 }
