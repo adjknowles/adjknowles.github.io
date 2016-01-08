@@ -20,6 +20,14 @@ body {
     color: #fec503;
 }
 
+.no-bullet {
+    list-style-type: none;
+}
+
+.margin-fix {
+    margin-left: -35px;
+}
+
 .text-muted {
     color: #777;
 }
